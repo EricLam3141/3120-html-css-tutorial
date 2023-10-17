@@ -13,7 +13,7 @@ This repo is meant to forked and then modified as students perform a tutorial ex
 
 ### HTML and CSS Experience
 
-A.) ITSC 3155 - Software engineering 
+A.) ITSC 3155 - Software engineering, github link for projects: https://github.com/Bug-Busters-UNCC-ITSC3155
 
 B.) Personal side projects :
     - Weather app using openweathermap.org as an api to source weather conditions for areas
