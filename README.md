@@ -12,3 +12,9 @@ This repo is meant to forked and then modified as students perform a tutorial ex
 ### IDE Experience
 
 ### HTML and CSS Experience
+
+A.) ITSC 3155 - Software engineering 
+
+B.) Personal side projects :
+    - Weather app using openweathermap.org as an api to source weather conditions for areas
+    - Autoclicker that had an event listener to listen for a key to automatically click for user
