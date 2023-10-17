@@ -6,4 +6,4 @@
  * 
  *****************************************************************************/
 console.log("Hello World!");
-console.log("My name is Zachary Wartell.  I am a Computer Science professor UNC Charlotte.");
+console.log("My name is Eric Lam.  I am a Computer Science student at UNC Charlotte.");
